@@ -1,8 +1,8 @@
-# security bot
+# he4rt quiz
 
 projeto desenvolvido para ser utilizado na comunidade **he4rt developers**.
 
-o **security bot** é um bot desenvolvido em **python** para trazer perguntas diárias sobre tecnologia, programação e cybersecurity para a comunidade.
+o **he4rt quiz** é um bot desenvolvido em **python** para trazer perguntas diárias sobre tecnologia, programação e cybersecurity para a comunidade.
 
 a proposta é simples: **uma pergunta por dia, enviada automaticamente**. o usuário não precisa utilizar comandos, apenas responder a pergunta.
 
@@ -30,13 +30,12 @@ todos os dias, o bot envia automaticamente uma pergunta com alternativas. o usu�
 * [x] explicação da resposta
 * [x] sistema inicial de pontuação
 * [x] categorias e dificuldades
+* [x] banco de dados 
+* [x] identificação correta do nickname
+* [x] remoção automática das perguntas
 
 ## em desenvolvimento
-
-* [ ] banco de dados
-* [ ] identificação correta do nickname
 * [ ] uma pergunta automática por dia
-* [ ] remoção automática das perguntas
 * [ ] ranking
 * [ ] histórico e estatísticas
 * [ ] novas categorias e perguntas
